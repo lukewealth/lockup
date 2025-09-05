@@ -33,7 +33,7 @@ It contains public resources such as:
 ## 🛠️ Tech Stack
 
 **Frontend**  
-- React.js / Next.js  
+- Next.js  
 - Tailwind CSS + Shadcn UI  
 - Mobile-first PWA (with USSD/SMS integration planned)  
 
@@ -87,16 +87,19 @@ It contains public resources such as:
 ---
 
 ## 🤝 Contribution
-We welcome contributions from developers, designers, and financial inclusion advocates.  
-
-- Open issues for feature requests or documentation improvements  
-- Submit pull requests to improve docs  
-- Join discussions on adoption strategies  
+TRICODE PRO is open to collaborate, we welcome contributions from developers, designers, and financial inclusion advocates.  
+ 
 
 ---
 
 ## 📄 License
 This repository is licensed under the TRICODE PRO LTD License.  
+
+### 🔑 Key Notes
+- Frontend completed ✅  
+- Backend and blockchain infrastructure in progress 🚧  
+- Currently applying for grants to support **testnet fees, mainnet liquidity, and scaling development**.  
+
 
 ---
 
