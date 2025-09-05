@@ -4,7 +4,9 @@ P2P Cross-Boarder dApp
 
 **LockUps** is a cross-border **P2P decentralized payment dApp** that empowers individuals and businesses to send, receive, and manage money instantly without relying on banks or intermediaries.  
 
-Beyond payments, LockUps integrates **personalized financial management**, a **credit scoring system**, and **investment management tools** — creating a complete financial inclusion ecosystem for both urban and rural users.  
+Beyond payments, LockUps integrates **personalized financial management**, a **credit scoring system**, and **investment management tools**
+
+We intend to create a complete financial inclusion ecosystem for both urban and rural users local markets.  
 
 ---
 
