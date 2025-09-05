@@ -23,10 +23,10 @@ Beyond payments, LockUps integrates **personalized financial management**, a **c
 ## 🛠️ Tech Stack
 
 **Frontend**
-- React.js / Next.js (progressive web app + responsive design)  
+- Next.js (progressive web app + responsive design)  
 - Tailwind CSS (UI styling)  
 - Shadcn UI components  
-- Mobile-first architecture (with USSD/SMS integration planned)  
+- Mobile app with Network-first architecture (with USSD/SMS integration planned)  
 
 **Backend**
 - Node.js / Express (API and business logic)  
@@ -85,8 +85,7 @@ Beyond payments, LockUps integrates **personalized financial management**, a **c
 
 ## 📌 Contribution
 
-We welcome developers, blockchain enthusiasts, and financial inclusion advocates to contribute. Please open issues or submit PRs to improve the platform.  
-
+TRICODE PRO is also open to collaborate. We welcome developers, blockchain enthusiasts, and financial inclusion advocates to contribute. 
 ---
 
 ## 📄 License
