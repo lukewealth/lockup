@@ -15,7 +15,7 @@ It contains public resources such as:
 - Grant application materials  
 
 🔒 The **core LockUps codebase** is maintained privately by **TRICODE PRO LIMITED** in a separate private repository:  
-👉 [https://github.com/tricodenetwork/lock-up](https://github.com/tricodenetwork/lock-up) (private access only)  
+👉 [https://github.com/tricodenetwork/lock-up](https://github.com/tricodenetwork/lock-up) (team access only)  
 
 ---
 
