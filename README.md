@@ -92,7 +92,7 @@ TRICODE PRO is also open to collaborate. We welcome developers, blockchain enthu
 
 ## 📄 License
 
-This project is licensed under TRICODE PRO LID License.  
+This project is licensed under TRICODE PRO LTD License.  
 
 ---
 
