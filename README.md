@@ -1,4 +1,4 @@
-# 💸 LockUps
+# LockUps
 
 **LockUps** is a cross-border **P2P decentralized payment dApp** that makes money transfers simple, fast, and affordable.  
 It goes beyond payments by providing **credit access, personalized financial management, and investment tools** — driving real financial inclusion for both urban and rural users.
